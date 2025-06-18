@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_RadioButton</name>
+   <name>TS_UploadAndDownload</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>85a7494c-5be5-400b-bcd1-f3ad0c61e5cb</testSuiteGuid>
+   <testSuiteGuid>c2e4d205-a80b-42ad-aefc-c5bc5320e108</testSuiteGuid>
    <testCaseLink>
-      <guid>0712df7d-8aa8-4678-a99c-9adf992cd041</guid>
+      <guid>fc8ba399-c944-4161-af1c-797574da124e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Radio Button/RadioButton_Impressive</testCaseId>
+      <testCaseId>Test Cases/Upload and Download/Download</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>5b8aaacd-e71d-402e-a5c5-11f9b916ad56</guid>
+      <guid>cc5174a4-de0e-4f64-ad18-25a00b43f816</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Radio Button/RadioButton_NoDisabled</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>b4d9ad76-10b1-4e62-8c02-8bbbe21574d2</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Radio Button/RadioButton_Yes</testCaseId>
+      <testCaseId>Test Cases/Upload and Download/Upload</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
