@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Button_DoubleClick</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>33bfdfc1-eb13-4d43-a5f6-a6622e8df22d</testCaseGuid>
+</TestCaseEntity>
