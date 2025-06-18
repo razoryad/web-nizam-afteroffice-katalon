@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RadioButton_NoDisabled</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>51185b2f-5834-4b17-a34f-83f859efd658</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckBox_SelectMultiple</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>26888296-4704-4867-96a7-a1d68fd52f03</testCaseGuid>
+</TestCaseEntity>

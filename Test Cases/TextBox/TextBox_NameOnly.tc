@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TextBox_NameOnly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f87b5dd-c79b-4674-89f6-b83c80e50948</testCaseGuid>
+</TestCaseEntity>
