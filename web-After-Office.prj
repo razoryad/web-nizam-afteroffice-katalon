@@ -6,11 +6,12 @@
    <UUID>cf39e030-bed4-4e4e-a2aa-775a9e686e05</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.2.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.2.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\nizam\Katalon Studio\web-After-Office\web-After-Office.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

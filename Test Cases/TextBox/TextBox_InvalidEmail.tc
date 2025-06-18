@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TextBox_InvalidEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>57baa2b4-25a6-4341-a80a-24b811ac9500</testCaseGuid>
+</TestCaseEntity>
